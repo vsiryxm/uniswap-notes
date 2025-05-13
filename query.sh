@@ -5,7 +5,7 @@ mkdir -p docs
 
 # 将信息写入文件
 {
-  echo "# Uniswap 代码版本信息"
+  echo "# Clone Uniswap 代码版本信息"
   echo ""
   echo "## v3-core"
   cd v3/v3-core
